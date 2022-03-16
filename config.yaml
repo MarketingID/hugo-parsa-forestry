@@ -15,7 +15,7 @@ module:
     - source: exampleSite/static/images
       target: static/images
 summaryLength: "2"
-paginate: "6"
+paginate: "2"
 outputs:
   home:
   - HTML
